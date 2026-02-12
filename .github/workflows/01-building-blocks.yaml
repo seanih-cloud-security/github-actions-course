@@ -1,4 +1,4 @@
-name: 01-building-blocks.yaml
+name: 01 - Building Blocks
 on: push
 
 jobs:
